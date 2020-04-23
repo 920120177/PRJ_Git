@@ -3,5 +3,3 @@ RA:
 Nome:
 
 Curso:
-
-Email:
