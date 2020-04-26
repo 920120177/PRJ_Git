@@ -2,4 +2,8 @@ RA:
 
 Nome:
 
-Curso:
+
+
+Data de Nascimento:
+
+Email:
